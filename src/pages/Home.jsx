@@ -515,9 +515,9 @@ if (showLoader) {
         Take a deeper look at what we do for our clients
         and partners.
       </p>
-      <a href="/projects" className="rf-working-link">
+      <Link to="/projects" className="rf-working-link">
         Projects →
-      </a>
+      </Link>
     </div>
 
     {/* CENTER CARD */}
