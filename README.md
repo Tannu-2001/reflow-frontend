@@ -1,16 +1,43 @@
-# React + Vite
+Reflow Frontend is a modern, agency-style portfolio website built to showcase creative work, branding, and digital services with a premium UI/UX inspired by high-end studios like Refokus.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+https://reflow-frontend.vercel.app/
 
-Currently, two official plugins are available:
+## Tech Stack
+- React.js
+- Vite
+- HTML5
+- CSS3
+- Framer Motion
+  
+## Features
+- Premium agency-style UI/UX
+- Fully responsive (Mobile, Tablet, Desktop)
+- Smooth page transitions & animations
+- Refokus-style loader experience
+- Dynamic data from backend APIs
+- Clean component-based architecture
+- Production-ready deployment on Vercel
+- 
+## What I Learned
+- Advanced component structuring in React
+- Animation handling with Framer Motion
+- API integration using environment variables
+- Deployment workflow with Vercel
+- Performance & UX optimization
+  
+## Run Locally
+1. git clone <https://github.com/Tannu-2001/tiny-link-frontend>
+2. cd reflow-frontend
+3. npm install
+4. npm run dev
+   
+## Environment Variables
+Create a .env file:
+VITE_API_BASE=https://reflow-backend-1.onrender.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Future Improvements
+SEO enhancements
+CMS integration
+More micro-interactions
+Accessibility improvements
