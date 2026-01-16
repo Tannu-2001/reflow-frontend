@@ -27,7 +27,7 @@ https://reflow-frontend.vercel.app/
 - Performance & UX optimization
   
 ## Run Locally
-1. git clone <https://github.com/Tannu-2001/tiny-link-frontend>
+1. git clone <https://github.com/Tannu-2001/reflow-frontend>
 2. cd reflow-frontend
 3. npm install
 4. npm run dev
